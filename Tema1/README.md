@@ -1,1 +1,34 @@
+##Tema 1
+En este tema se veran los **conceptos basicos**
+
+Se vern los siguientes apartados 
+
+1.afafafda
+ i.uno
+ ii. dos
+3. segundo
+4. tercero
+
+```javascript
+        import System.out.println;
+
+   void main (String arg[])¨{
+     println("hola");
+   }  
+   ```
+
+> **AVISO**: Esto debe escribirse en un terminal.
+> ```javascript
+> var numero = 5
+> ```
+
+
+
+LENGUAJE   |    INVENTOR   |   AÑO
+-----------|:-------------:|-------:
+javaScript | James         | 1995
+Java       | James Gosling | 1995
+Pyton      | Fan de Monthyh| 2006
+
+
 
