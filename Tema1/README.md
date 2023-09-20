@@ -1,7 +1,8 @@
 ##Tema 1
 En este tema se veran los **conceptos basicos**
 
-Se vern los siguientes apartados 
+![Lenguajes de programación](Tema1/Assets/imagen1.jfif)
+Se vern los siguientes apartados:
 
 1.afafafda
  i.uno
@@ -21,7 +22,7 @@ Se vern los siguientes apartados
 > ```javascript
 > var numero = 5
 > ```
-
+![Lenguajes de programación](Tema1/Assets/imagen2.png)
 
 
 LENGUAJE   |    INVENTOR   |   AÑO
